@@ -121,3 +121,5 @@
         - 查看ssh是否开启
             - ps -e|grep ssh
         - 配置ssh免密登录
+   - Ubuntu 用户管理命令
+   
